@@ -58,7 +58,7 @@ For my third tutorial my main problem was the undertanding of some of the codes 
 
 Finishing my final tutorial wasnt much problem, i had a few problems and errors with unity that had i had no idea how to fix, i had to make some research on youtube but i wasnt able to fix it so my work in unity was a bit limited but i still managed to make it work and completed the tutorial with not much dificulty.   
 
-
+### Leraning Journel Finished by the [9 / 1 / 25]
 
 
 
